@@ -5,5 +5,3 @@ In mathematics, a rose or rhodonea curve is a sinusoid specified by either the c
 [rose on wikipedia](https://en.wikipedia.org/wiki/Rose_(mathematics))
 
 ![sample](images/sample.png)
-
-
