@@ -34,8 +34,8 @@ func main() {
 
 	ampl = float64(width) * .5
 	//k:=2
-	d := 5.0
-	n := 7.0
+	d := 9.0
+	n := 8.0
 	k = n / d
 
 	for s := 0.0; s < (360.0 * d); s = s + .001 {
